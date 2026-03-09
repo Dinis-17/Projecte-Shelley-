@@ -1,7 +1,7 @@
 $(function () {
   var isCollapsed = false;
 
-  var total = $("dl dd").leght;
+  var total = $("dl dd").length;
 
   $("#infoRessenyes").text("Total de ressenyes: " + total);
 
